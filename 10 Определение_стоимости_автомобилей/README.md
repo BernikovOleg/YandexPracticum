@@ -40,4 +40,4 @@
 - `Price` - цена автомобиля
 
 ## Используемые библиотеки
-*pandas, numpy, matplotlib, seaborn, sklearn, catboost, lightgbm *
+*pandas, numpy, matplotlib, seaborn, sklearn, catboost, lightgbm*
