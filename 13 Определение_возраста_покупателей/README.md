@@ -13,4 +13,4 @@
 В нашем распоряжении одна папка со всеми изображениями `/final_files` и csv-файл `labels.csv` с двумя колонками: `file_name` и `real_age`.
 
 ## Используемые библиотеки
-*pandas, numpy, matplotlib, seaborn, sklearn, catboost, lightgbm*
+*pandas, keras, matplotlib, seaborn*
