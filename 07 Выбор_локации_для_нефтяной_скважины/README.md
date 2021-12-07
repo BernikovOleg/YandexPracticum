@@ -23,7 +23,6 @@
 - Проверка на корреляцию
 - LinearRegression
 - Расчёт прибыли и рисков техникой bootstrap
-- 
 
 ## Используемые библиотеки
 *pandas, numpy, matplotlib, sklearn*
