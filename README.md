@@ -2,19 +2,6 @@
 Данные проекты были выполнены мной в ходе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science".
 [Диплом об успешном окончании курса.](https://github.com/BernikovOleg/YandexPracticum/blob/main/yandex_ds_diploma.pdf)
 
-Все проекты были выполнены в *Jupyter Notebook* на языке *Python 3.7.8* ; Версии библиотек:
-- matplotlib==3.1.0
-- nltk==3.4.1
-- numpy==1.18.3
-- pandas==0.25.1
-- plotly==4.1.0
-- pymorphy2==0.8
-- pymystem3==0.2.0
-- scikit-learn==0.21.2
-- scipy==1.4.1
-- seaborn==0.9.0
-- statsmodels==0.10.1
-
 
 |Название проекта                              |Описание                                                      |Используемые библиотеки     |
 |:---------------------------------------------|:-------------------------------------------------------------|:--------------------------:|
@@ -32,3 +19,17 @@
 |[Классификация токсичных комментариев](https://github.com/BernikovOleg/YandexPracticum/tree/main/12%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D1%8B%D1%85_%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2)|Обучаю модель классифицировать комментарии в интернет-магазине на позитивные и негативные.|*pandas, numpy, nltk, re, sklearn, catboost, lightgbm*|
 |[Определение возраста покупателей](https://github.com/BernikovOleg/YandexPracticum/tree/main/13%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0_%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9)|Строю модель, которая по фотографии определяет возраст человека.|*pandas, keras, matplotlib, seaborn*|
 |**Выпускной проект** [Предсказание температуры стали](https://github.com/BernikovOleg/YandexPracticum/tree/main/14%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B_%D1%81%D1%82%D0%B0%D0%BB%D0%B8)| Строю модель машинного обучения, которая предскажет температуру стали в ковше после десульфурации, легирования и дополнительного нагрева.|*pandas, numpy, matplotlib, seaborn, sklearn, catboost, lightgbm, IPython*|
+
+Все проекты были выполнены в *Jupyter Notebook* на языке *Python 3.7.8* ; Версии библиотек:
+- matplotlib==3.1.0
+- nltk==3.4.1
+- numpy==1.18.3
+- pandas==0.25.1
+- plotly==4.1.0
+- pymorphy2==0.8
+- pymystem3==0.2.0
+- scikit-learn==0.21.2
+- scipy==1.4.1
+- seaborn==0.9.0
+- statsmodels==0.10.1
+
