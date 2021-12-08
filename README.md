@@ -1,5 +1,6 @@
 # YandexPracticum
 Данные проекты были выполнены мной в ходе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science".
+[Диплом об успешном окончании курса.](https://github.com/BernikovOleg/YandexPracticum/blob/main/yandex_ds_diploma.pdf)
 
 Все проекты были выполнены в *Jupyter Notebook* на языке *Python 3.7.8* ; Версии библиотек:
 - matplotlib==3.1.0
